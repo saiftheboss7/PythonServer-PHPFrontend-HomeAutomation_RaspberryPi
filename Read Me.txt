@@ -1,5 +1,3 @@
-# PythonServer-PHPFrontend-HomeAutomation_RaspberryPi
-
 Website URL
 
 https://myhomeautom.000webhostapp.com
